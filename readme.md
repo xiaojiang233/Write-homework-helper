@@ -8,5 +8,5 @@
 ### 全屏模式：
 [![image.png](https://i.postimg.cc/NG7c1p7y/image.png)](https://postimg.cc/XXJmWKP3)
 ### backrooms模式（暂未制作好）：
-[![image.png](https://i.postimg.cc/bvbMqwmG/image.png)](https://postimg.cc/4Kfw5skZ)
+[[![image.png](https://i.postimg.cc/bvbMqwmG/image.png)](https://postimg.cc/4Kfw5skZ)](https://i.postimg.cc/sxNPrzW6/image.png)
 ### 内置两首《俊豪金曲》
