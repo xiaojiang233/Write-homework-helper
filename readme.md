@@ -1,3 +1,4 @@
+（注意！此项目已经彻底停更，请前往[electron版认真写作业](https://github.com/xiaojiangxj233/Write-home-helper-electron)获取新版）
 # 写作业帮助器
 ### 一个可以帮助你认真写作业的软件
 ### 使用易语言制作
